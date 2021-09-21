@@ -1,4 +1,3 @@
-
 ## Welcome to my Github!👋
 
 #### My name is Izabel Rodrigues and  I'm a Java Developer Analyst. 
@@ -24,9 +23,6 @@ Here are some ideas to get you started:
 ## Status
 
 <a href="https://github.com/izabelrodrigues/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=izabelrodrigues&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Izabel Rodrigues's GitHub stats" /></a>
-<a href="https://github.com/izabelrodrigues/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelrodrigues&theme=midnight-purple&layout=compact&hide_border=true" /></a>
+<a href="https://github.com/izabelrodrigues/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelrodrigues&theme=midnight-purple&layout=compact&hide_border=true&count_private=true" /></a>
 
-
-
-
- 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=izabelrodrigues&repo=izabelrodrigues&countColorcountColor)
